@@ -1,0 +1,20 @@
+{
+  "name": "@ironbedtruck/parts-catalog",
+  "version": "1.0.0",
+  "description": "🚛 IronBedTruck — Premium truck parts catalog data for F-150, Silverado, RAM 1500 & Tundra. Free USA shipping over $99.",
+  "main": "index.js",
+  "homepage": "https://ironbedtruck.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamcisco-code/ironbedtruck-parts.git"
+  },
+  "keywords": [
+    "truck-parts","f-150","silverado","ram-1500","tundra","tacoma",
+    "mud-flaps","running-boards","tonneau-cover","lift-kit","wheels",
+    "led-light-bar","fender-flares","bed-liner","grille","bumper",
+    "automotive","aftermarket-parts","pickup-truck","ironbedtruck"
+  ],
+  "author": "IronBedTruck <support@ironbedtruck.com> (https://ironbedtruck.com)",
+  "license": "MIT",
+  "bugs": { "url": "https://github.com/anamcisco-code/ironbedtruck-parts/issues" }
+}
